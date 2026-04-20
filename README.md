@@ -71,11 +71,17 @@ Open index.html in your favorite browser. Upload a CT scan and click "Run AI Ana
 📂 Project Structure
 
 ├── lung_dataset/           # Dataset directory
+
 ├── static/                 # CSS and JS assets
+
 ├── app.py                  # Flask API Backend
+
 ├── lung_ai_mobilenet.py    # Training Script
+
 ├── index.html              # Frontend Dashboard
+
 ├── requirements.txt        # Python Dependencies
+
 └── lung_cancer_mobilenet_v2.keras # Saved Model
 
 🤝 Contributing
