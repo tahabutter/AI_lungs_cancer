@@ -5,3 +5,5 @@ numpy
 pillow
 python-multipart
 jinja2
+flask 
+gunicorn
